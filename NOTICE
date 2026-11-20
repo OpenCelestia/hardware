@@ -1,0 +1,19 @@
+Celestia — hardware
+Copyright 2024-2026 Guangzhou Anyka Microelectronics Co., Ltd.
+
+This product includes software developed by
+Guangzhou Anyka Microelectronics Co., Ltd. and the Celestia project.
+
+Licensed under the Apache License, Version 2.0 (see the LICENSE file).
+
+--------------------------------------------------------------------------------
+Third-party components
+--------------------------------------------------------------------------------
+
+This repository references third-party open-source libraries that are located
+in the separate `third_party` repository. Each such library is distributed
+under its own license; see `third_party/THIRD_PARTY_NOTICES.md` for details.
+
+This repository provides hardware abstraction over the Anyka SoC platform.
+Vendor SoC BSP/SDK code and vendor-proprietary binaries are NOT part of this
+repository and are NOT covered by the Apache-2.0 license above.
